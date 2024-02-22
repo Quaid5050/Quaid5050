@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 ## GitHub Stats
 ![GitHub Language Stats](https://api.githubtrends.io/user/svg/Quaid5050/repos?time_range=one_year&include_private=True&group=other&loc_metric=changed&theme=dark)
 ![GitHub Language Stats](https://api.githubtrends.io/user/svg/Quaid5050/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)
+
+![GitHub Language Stats](https://www.githubwrapped.io/Quaid5050/2023)
