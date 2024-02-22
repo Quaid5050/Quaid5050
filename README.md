@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 ![GitHub Language Stats](https://api.githubtrends.io/user/svg/Quaid5050/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Quaid5050&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white)
