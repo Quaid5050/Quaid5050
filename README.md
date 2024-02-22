@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quaid5050)](https://github.com/quaid5050/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quaid5050&layout=donut-vertical)](https://github.com/quaid5050/github-readme-stats)
 <img align="left" alt="My Stats" src="https://github-readme-stats.vercel.app/api?username=quaid5050&show_icons=true&theme=radical" />
