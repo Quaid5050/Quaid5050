@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 
 
 
-
-<img align="left" alt="My Stats" src="https://github-readme-stats.vercel.app/api?username=quaid5050&show_icons=true&theme=radical" />
 ## GitHub Stats
 
 **2024**
