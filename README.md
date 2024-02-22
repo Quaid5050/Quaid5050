@@ -18,14 +18,13 @@ Here are some ideas to get you started:
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quaid5050&layout=donut-vertical)](https://github.com/quaid5050/github-readme-stats)
+
 <img align="left" alt="My Stats" src="https://github-readme-stats.vercel.app/api?username=quaid5050&show_icons=true&theme=radical" />
 ## GitHub Stats
 
 **2024**
 <img align="left" alt="My Stats 2024" src="https://github-readme-stats.vercel.app/api?username=quaid5050&show_icons=true&theme=radical&start_date=2024-01-01&end_date=2024-12-31" />
 
-**2023**
-<img align="left" alt="My Stats 2023" src="https://github-readme-stats.vercel.app/api?username=quaid5050&show_icons=true&theme=radical&start_date=2023-01-01&end_date=2023-12-31" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quaid5050&layout=donut-vertical)](https://github.com/quaid5050/github-readme-stats)
 
-*To see my detailed contribution history, please view my commits and filter by year [link to your commit history]*
+[![Top Langs](https://api.github.com/search/commits?q=author:quaid5050)](https://github.com/quaid5050/github-readme-stats)
