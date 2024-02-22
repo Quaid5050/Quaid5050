@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quaid5050&layout=donut-vertical)](https://github.com/quaid5050/github-readme-stats)
 
-https://api.githubtrends.io/user/svg/Quaid5050/langs?time_range=one_year&use_percent=True&theme=dark
+![GitHub Language Stats](https://api.githubtrends.io/user/svg/Quaid5050/langs?time_range=one_year&use_percent=True&theme=dark)
