@@ -16,14 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-
-
-## GitHub Stats
-![GitHub Language Stats](https://api.githubtrends.io/user/svg/Quaid5050/repos?time_range=one_year&include_private=True&group=other&loc_metric=changed&theme=dark)
-![GitHub Language Stats](https://api.githubtrends.io/user/svg/Quaid5050/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Quaid5050&theme=dark)](https://git.io/streak-stats)
-
 <h3>💻 GitHub Profile Stats</h3>
 
   <!-- https://github.com/quaid5050/github-readme-stats -->
@@ -32,7 +24,18 @@ Here are some ideas to get you started:
   <a href="https://github.com/quaid5050/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Quaid5050&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
   <br/>
 
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<h3>💻 GitHub Streak </h3>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Quaid5050&theme=dark)](https://git.io/streak-stats)
+
+
+## GitHub Stats
+![GitHub Language Stats](https://api.githubtrends.io/user/svg/Quaid5050/repos?time_range=one_year&include_private=True&group=other&loc_metric=changed&theme=dark)
+![GitHub Language Stats](https://api.githubtrends.io/user/svg/Quaid5050/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)
+
+
+
+  <b>Note:</b> Top languages is only a metric of the languages my public code.
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
