@@ -14,5 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=quaid5050)](https://github.com/quaid5050/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=quaid5050&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=quaid5050&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=quaid5050&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=quaid5050&show_icons=true&theme=radical)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=quaid5050&repo=github-readme-stats)](https://github.com/quaid5050/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quaid5050)](https://github.com/quaid5050/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quaid5050&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quaid5050&exclude_repo=github-readme-stats,anuraghazra.github.io)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quaid5050&langs_count=8)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quaid5050&layout=donut)](https://github.com/quaid5050/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quaid5050&layout=donut-vertical)](https://github.com/quaid5050/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=quaid5050)](https://github.com/quaid5050/github-readme-stats)
