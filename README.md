@@ -27,4 +27,3 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quaid5050&layout=donut-vertical)](https://github.com/quaid5050/github-readme-stats)
 
-[![Top Langs](https://api.github.com/search/commits?q=author:quaid5050)](https://github.com/quaid5050/github-readme-stats)
