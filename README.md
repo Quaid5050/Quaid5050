@@ -40,3 +40,5 @@ Here are some ideas to get you started:
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Quaid Ahmed's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Quaid5050&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 [![wakatime](https://wakatime.com/badge/user/018dd26f-4503-4546-a6bc-5b5e5947c74e/project/018dd279-ff19-4614-88a7-b426dbd12b3f.svg)](https://wakatime.com/badge/user/018dd26f-4503-4546-a6bc-5b5e5947c74e/project/018dd279-ff19-4614-88a7-b426dbd12b3f) 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
