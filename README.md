@@ -41,9 +41,9 @@ Here are some ideas to get you started:
 
 [![wakatime](https://wakatime.com/badge/user/018dd26f-4503-4546-a6bc-5b5e5947c74e/project/018dd279-ff19-4614-88a7-b426dbd12b3f.svg)](https://wakatime.com/badge/user/018dd26f-4503-4546-a6bc-5b5e5947c74e/project/018dd279-ff19-4614-88a7-b426dbd12b3f) 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2037%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-227-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-278-blue)
 
 **🐱 My GitHub Data** 
 
@@ -89,12 +89,6 @@ Markdown                 0 secs              ░░░░░░░░░░░�
 
 🔥 Editors: 
 VS Code                  3 hrs 4 mins        █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-Joint-Office-Detector-App3 hrs 4 mins        █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  3 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -114,5 +108,5 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Quaid5050/Quaid5050/main/assets/bar_graph.png)
 
 
- Last Updated on 23/02/2024 21:25:20 UTC
+ Last Updated on 24/02/2024 18:39:53 UTC
 <!--END_SECTION:waka-->
