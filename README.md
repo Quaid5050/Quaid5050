@@ -41,15 +41,13 @@ Here are some ideas to get you started:
 
 [![wakatime](https://wakatime.com/badge/user/018dd26f-4503-4546-a6bc-5b5e5947c74e/project/018dd279-ff19-4614-88a7-b426dbd12b3f.svg)](https://wakatime.com/badge/user/018dd26f-4503-4546-a6bc-5b5e5947c74e/project/018dd279-ff19-4614-88a7-b426dbd12b3f) 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2056%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-284-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-302-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 179.7 kB Used in GitHub's Storage 
- > 
-> 🏆 99 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -111,5 +109,5 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Quaid5050/Quaid5050/main/assets/bar_graph.png)
 
 
- Last Updated on 25/02/2024 11:39:57 UTC
+ Last Updated on 25/02/2024 18:39:07 UTC
 <!--END_SECTION:waka-->
