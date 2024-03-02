@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 [![wakatime](https://wakatime.com/badge/user/018dd26f-4503-4546-a6bc-5b5e5947c74e/project/018dd279-ff19-4614-88a7-b426dbd12b3f.svg)](https://wakatime.com/badge/user/018dd26f-4503-4546-a6bc-5b5e5947c74e/project/018dd279-ff19-4614-88a7-b426dbd12b3f) 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-37%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-43%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-320-blue)
 
@@ -84,14 +84,14 @@ Sunday                   1675 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-TypeScript               27 hrs 40 mins      ██████████████████████░░░   89.14 % 
-JavaScript               1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
-Other                    1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
-JSON                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+TypeScript               31 hrs 39 mins      ███████████████████████░░   90.38 % 
+JavaScript               1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+Other                    1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+JSON                     37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 🔥 Editors: 
-VS Code                  31 hrs 3 mins       █████████████████████████   100.00 % 
+VS Code                  35 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -111,5 +111,5 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Quaid5050/Quaid5050/main/assets/bar_graph.png)
 
 
- Last Updated on 01/03/2024 18:39:23 UTC
+ Last Updated on 02/03/2024 18:39:12 UTC
 <!--END_SECTION:waka-->
