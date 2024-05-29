@@ -41,15 +41,13 @@ Here are some ideas to get you started:
 
 [![wakatime](https://wakatime.com/badge/user/018dd26f-4503-4546-a6bc-5b5e5947c74e/project/018dd279-ff19-4614-88a7-b426dbd12b3f.svg)](https://wakatime.com/badge/user/018dd26f-4503-4546-a6bc-5b5e5947c74e/project/018dd279-ff19-4614-88a7-b426dbd12b3f) 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-142%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-150%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 180.5 kB Used in GitHub's Storage 
- > 
-> 🏆 193 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -84,14 +82,14 @@ Sunday                   280 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-TypeScript               9 hrs 55 mins       ████████████████████████░   94.96 % 
-JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
-JavaScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+TypeScript               9 hrs 34 mins       ████████████████████████░   97.26 % 
+JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+JavaScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 26 mins      █████████████████████████   100.00 % 
+VS Code                  9 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -111,5 +109,5 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Quaid5050/Quaid5050/main/assets/bar_graph.png)
 
 
- Last Updated on 28/05/2024 18:40:42 UTC
+ Last Updated on 29/05/2024 18:40:00 UTC
 <!--END_SECTION:waka-->
