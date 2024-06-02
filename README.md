@@ -41,13 +41,15 @@ Here are some ideas to get you started:
 
 [![wakatime](https://wakatime.com/badge/user/018dd26f-4503-4546-a6bc-5b5e5947c74e/project/018dd279-ff19-4614-88a7-b426dbd12b3f.svg)](https://wakatime.com/badge/user/018dd26f-4503-4546-a6bc-5b5e5947c74e/project/018dd279-ff19-4614-88a7-b426dbd12b3f) 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-151%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-152%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 180.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 193 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -82,13 +84,13 @@ Sunday                   280 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-TypeScript               10 hrs              ███████████████████████░░   90.96 % 
-JavaScript               45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
-JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+TypeScript               11 hrs 11 mins      ███████████████████████░░   91.71 % 
+JavaScript               45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+JSON                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🔥 Editors: 
-VS Code                  11 hrs              █████████████████████████   100.00 % 
+VS Code                  12 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -108,5 +110,5 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Quaid5050/Quaid5050/main/assets/bar_graph.png)
 
 
- Last Updated on 01/06/2024 18:39:09 UTC
+ Last Updated on 02/06/2024 18:39:56 UTC
 <!--END_SECTION:waka-->
