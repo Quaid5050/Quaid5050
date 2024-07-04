@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 [![wakatime](https://wakatime.com/badge/user/018dd26f-4503-4546-a6bc-5b5e5947c74e/project/018dd279-ff19-4614-88a7-b426dbd12b3f.svg)](https://wakatime.com/badge/user/018dd26f-4503-4546-a6bc-5b5e5947c74e/project/018dd279-ff19-4614-88a7-b426dbd12b3f) 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-193%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-202%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -82,14 +82,14 @@ Sunday                   304 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-TypeScript               23 hrs 3 mins       ███████████████████████░░   92.45 % 
-JavaScript               1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
-Bash                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+TypeScript               24 hrs 36 mins      ███████████████████████░░   92.89 % 
+JavaScript               1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+Bash                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-VS Code                  24 hrs 56 mins      █████████████████████████   100.00 % 
+VS Code                  26 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -109,5 +109,5 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Quaid5050/Quaid5050/main/assets/bar_graph.png)
 
 
- Last Updated on 03/07/2024 18:40:28 UTC
+ Last Updated on 04/07/2024 18:41:21 UTC
 <!--END_SECTION:waka-->
