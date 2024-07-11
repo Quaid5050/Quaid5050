@@ -49,8 +49,6 @@ Here are some ideas to get you started:
 
 > 📦 222.1 kB Used in GitHub's Storage 
  > 
-> 🏆 213 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 34 Public Repositories 
@@ -84,10 +82,10 @@ Sunday                   304 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-TypeScript               2 hrs 34 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 34 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -107,5 +105,5 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Quaid5050/Quaid5050/main/assets/bar_graph.png)
 
 
- Last Updated on 10/07/2024 18:43:06 UTC
+ Last Updated on 11/07/2024 18:41:52 UTC
 <!--END_SECTION:waka-->
