@@ -47,7 +47,9 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 📦 222.3 kB Used in GitHub's Storage 
+> 📦 222.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 221 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -105,5 +107,5 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Quaid5050/Quaid5050/main/assets/bar_graph.png)
 
 
- Last Updated on 19/08/2024 18:42:59 UTC
+ Last Updated on 20/08/2024 18:42:43 UTC
 <!--END_SECTION:waka-->
