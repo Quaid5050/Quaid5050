@@ -49,8 +49,6 @@ Here are some ideas to get you started:
 
 > 📦 222.4 kB Used in GitHub's Storage 
  > 
-> 🏆 221 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 35 Public Repositories 
@@ -107,5 +105,5 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Quaid5050/Quaid5050/main/assets/bar_graph.png)
 
 
- Last Updated on 20/08/2024 18:42:43 UTC
+ Last Updated on 21/08/2024 18:43:08 UTC
 <!--END_SECTION:waka-->
