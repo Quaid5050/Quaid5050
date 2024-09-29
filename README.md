@@ -41,15 +41,13 @@ Here are some ideas to get you started:
 
 [![wakatime](https://wakatime.com/badge/user/018dd26f-4503-4546-a6bc-5b5e5947c74e/project/018dd279-ff19-4614-88a7-b426dbd12b3f.svg)](https://wakatime.com/badge/user/018dd26f-4503-4546-a6bc-5b5e5947c74e/project/018dd279-ff19-4614-88a7-b426dbd12b3f) 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-261%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-276%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 235.6 kB Used in GitHub's Storage 
- > 
-> 🏆 282 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -84,14 +82,14 @@ Sunday                   312 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-TypeScript               42 hrs 20 mins      ██████████████████████░░░   88.81 % 
-JavaScript               1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
-Markdown                 1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-JSON                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-Groovy                   54 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+TypeScript               45 hrs 59 mins      ██████████████████████░░░   89.45 % 
+JavaScript               1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+Markdown                 1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+JSON                     58 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+Groovy                   54 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
 
 🔥 Editors: 
-VS Code                  47 hrs 40 mins      █████████████████████████   100.00 % 
+VS Code                  51 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -111,5 +109,5 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Quaid5050/Quaid5050/main/assets/bar_graph.png)
 
 
- Last Updated on 28/09/2024 18:45:59 UTC
+ Last Updated on 29/09/2024 18:46:43 UTC
 <!--END_SECTION:waka-->
