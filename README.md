@@ -33,7 +33,8 @@ Here are some ideas to get you started:
 ![GitHub Language Stats](https://api.githubtrends.io/user/svg/Quaid5050/repos?time_range=one_year&include_private=True&group=other&loc_metric=changed&theme=dark)
 ![GitHub Language Stats](https://api.githubtrends.io/user/svg/Quaid5050/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)
 
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=quaid5050&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
   <b>Note:</b> Top languages is only a metric of the languages my public code.
   
