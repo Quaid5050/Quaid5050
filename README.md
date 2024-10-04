@@ -46,11 +46,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-292%20hrs%2053%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 235.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 300 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -85,14 +87,14 @@ Sunday                   312 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-TypeScript               37 hrs 37 mins      ███████████████████████░░   91.22 % 
-Markdown                 1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
-JavaScript               28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
-Other                    26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
-JSON                     26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+TypeScript               28 hrs 59 mins      ███████████████████████░░   91.45 % 
+Markdown                 56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+Other                    24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+GraphQL                  19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+Bash                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 
 🔥 Editors: 
-VS Code                  41 hrs 14 mins      █████████████████████████   100.00 % 
+VS Code                  31 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -112,5 +114,5 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Quaid5050/Quaid5050/main/assets/bar_graph.png)
 
 
- Last Updated on 03/10/2024 18:50:00 UTC
+ Last Updated on 04/10/2024 18:48:43 UTC
 <!--END_SECTION:waka-->
