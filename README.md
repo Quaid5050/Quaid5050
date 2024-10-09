@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 [![wakatime](https://wakatime.com/badge/user/018dd26f-4503-4546-a6bc-5b5e5947c74e/project/018dd279-ff19-4614-88a7-b426dbd12b3f.svg)](https://wakatime.com/badge/user/018dd26f-4503-4546-a6bc-5b5e5947c74e/project/018dd279-ff19-4614-88a7-b426dbd12b3f) 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-308%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-315%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
@@ -85,14 +85,14 @@ Sunday                   321 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-TypeScript               6 hrs 26 mins       ███████████░░░░░░░░░░░░░░   45.80 % 
-JavaScript               1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
-JSON                     1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
-Bash                     1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
-Prisma                   42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
+JavaScript               5 hrs 53 mins       █████████░░░░░░░░░░░░░░░░   36.49 % 
+TypeScript               3 hrs               █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
+Groovy                   2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+JSON                     1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
+Bash                     1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 4 mins       █████████████████████████   100.00 % 
+VS Code                  16 hrs 8 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -112,5 +112,5 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Quaid5050/Quaid5050/main/assets/bar_graph.png)
 
 
- Last Updated on 08/10/2024 18:48:11 UTC
+ Last Updated on 09/10/2024 18:49:05 UTC
 <!--END_SECTION:waka-->
