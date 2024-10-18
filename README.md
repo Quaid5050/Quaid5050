@@ -44,15 +44,13 @@ Here are some ideas to get you started:
 
 [![wakatime](https://wakatime.com/badge/user/018dd26f-4503-4546-a6bc-5b5e5947c74e/project/018dd279-ff19-4614-88a7-b426dbd12b3f.svg)](https://wakatime.com/badge/user/018dd26f-4503-4546-a6bc-5b5e5947c74e/project/018dd279-ff19-4614-88a7-b426dbd12b3f) 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-371%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-378%20hrs%2044%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 253.4 kB Used in GitHub's Storage 
- > 
-> 🏆 349 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -87,14 +85,14 @@ Sunday                   334 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-JavaScript               23 hrs 23 mins      ███████████░░░░░░░░░░░░░░   43.80 % 
-TypeScript               21 hrs 26 mins      ██████████░░░░░░░░░░░░░░░   40.14 % 
-Bash                     2 hrs 50 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
-JSON                     2 hrs 11 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
-Markdown                 1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+TypeScript               22 hrs 32 mins      ███████████░░░░░░░░░░░░░░   45.09 % 
+JavaScript               20 hrs 2 mins       ██████████░░░░░░░░░░░░░░░   40.11 % 
+Bash                     2 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+JSON                     2 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+Markdown                 54 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 
 🔥 Editors: 
-VS Code                  53 hrs 24 mins      █████████████████████████   100.00 % 
+VS Code                  49 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -114,5 +112,5 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Quaid5050/Quaid5050/main/assets/bar_graph.png)
 
 
- Last Updated on 17/10/2024 18:49:17 UTC
+ Last Updated on 18/10/2024 18:49:12 UTC
 <!--END_SECTION:waka-->
