@@ -116,3 +116,4 @@ C#                       1 repo              ░░░░░░░░░░░�
 
  Last Updated on 19/10/2024 18:46:28 UTC
 <!--END_SECTION:waka-->
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/quaid5050/github-readme-stats)
