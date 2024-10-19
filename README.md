@@ -110,10 +110,10 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 **Timeline**
-
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=quaidahmed)](https://github.com/quaid5050/github-readme-stats)
 ![Lines of Code chart](https://raw.githubusercontent.com/Quaid5050/Quaid5050/main/assets/bar_graph.png)
 
 
  Last Updated on 19/10/2024 18:46:28 UTC
 <!--END_SECTION:waka-->
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=quaidahmed)](https://github.com/quaid5050/github-readme-stats)
+
