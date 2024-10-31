@@ -25,8 +25,10 @@ Here are some ideas to get you started:
 
 
 
-<h3>💻 GitHub Streak </h3>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Quaid5050&theme=dark)](https://git.io/streak-stats)
+<h3>💻 GitHub Streak</h3>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Quaid5050&theme=dark)](https://git.io/streak-stats)
+
 
   <a href="https://github.com/quaid5050/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Quaid5050&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
 
