@@ -14,14 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-> _"# **Program to an Interface, Not an Implementation**"_
-
+> ## 🌟 **Program to an Interface, Not an Implementation** 🌟  
+>  
 > _"Design your code to rely on abstractions rather than concrete implementations."_
 
-> _"### 💡 Why? "_
-> _"- **Flexibility**: Easily swap out components."_
-> _"- **Maintainability**: Minimize dependencies on specific implementations."_
-> _"- **Scalability**: Embrace modularity, perfect for future growth."_
+> ### 💡 **Why?**
+> - **Flexibility**: Easily swap out components.
+> - **Maintainability**: Minimize dependencies on specific implementations.
+> - **Scalability**: Embrace modularity, perfect for future growth.
+
 
 
 <h3>💻 GitHub Profile Stats</h3>
