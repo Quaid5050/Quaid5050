@@ -18,13 +18,6 @@ Here are some ideas to get you started:
 >  
 > _"Design your code to rely on abstractions rather than concrete implementations."_
 
-> ### 💡 **Why?**
-> - **Flexibility**: Easily swap out components.
-> - **Maintainability**: Minimize dependencies on specific implementations.
-> - **Scalability**: Embrace modularity, perfect for future growth.
-
-
-
 <h3>💻 GitHub Streak</h3>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Quaid5050&theme=dark)](https://git.io/streak-stats)
