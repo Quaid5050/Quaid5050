@@ -18,10 +18,6 @@ Here are some ideas to get you started:
 >  
 > _"Design your code to rely on abstractions rather than concrete implementations."_
 
-<h3>💻 GitHub Streak</h3>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Quaid5050&theme=dark)](https://git.io/streak-stats)
-
 
 # 💻 Tech Stack:
 ### **Programming Languages**
