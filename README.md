@@ -27,7 +27,4 @@ Here are some ideas to get you started:
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405e?style=flat&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=firebase) ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Quaid Ahmed's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Quaid5050&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-
-
+[![Quaid Ahmed's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=quaid5050&theme=github-compact)](https://github.com/quaid5050/github-readme-activity-graph)
