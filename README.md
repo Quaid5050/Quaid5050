@@ -50,16 +50,6 @@ Here are some ideas to get you started:
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?logo=amazondynamodb&logoColor=fff)
 
-## GitHub Stats
-![GitHub Language Stats](https://api.githubtrends.io/user/svg/Quaid5050/repos?time_range=one_year&include_private=True&group=other&loc_metric=changed&theme=dark)
-![GitHub Language Stats](https://api.githubtrends.io/user/svg/Quaid5050/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=quaid5050&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code.
-  
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Quaid Ahmed's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Quaid5050&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
